@@ -49,9 +49,7 @@ present it.
 
 ## Deliverables
 Submit a pull request to merge your `assignment` branch with `master` (but do not merge). The `assginment` branch should include:
-- Either of the following (both are not necessary):
-  - `earth-day-map.pdf` - cartographic product produced in QGIS that tells a story of recent earth changes
-  - `earth-day-map.ipynb` - a Jupyter notebook that tells a story of recent earth changes
+- `earth-day-map.pdf` - cartographic product produced in QGIS that tells a story of recent earth changes
 - `methods.md` - a text markdown file describing your methods, including:
   - data sources
   - software used
